@@ -1,5 +1,5 @@
 ### CLI Usage
-The Core can extract kact from CLI arguments, Clipboard and kact.txt file within the application folder. However, the priority is as follow:
+The Core can extract kact from CLI arguments, Clipboard and kact.txt file within the application folder. However, the priority is as follows:
 1. CLI argument (example: `ReKact.exe <kact>`)
 2. Clipboard
 3. kact.txt
